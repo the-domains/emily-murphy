@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'This moment in time. '
-datePublished: '2016-07-31T21:42:20.467Z'
-dateModified: '2016-07-31T21:42:20.140Z'
-authors: []
-publisher: {}
+datePublished: '2016-07-31T21:46:03.961Z'
+dateModified: '2016-07-31T21:45:52.278Z'
 title: ''
 author: []
 via: {}
-starred: false
 sourcePath: _posts/2016-07-31-this-moment-in-time.md
+authors: []
+publisher: {}
+starred: false
 url: this-moment-in-time/index.html
 _type: Article
 
@@ -25,5 +25,6 @@ I had a conversation a few years ago with another ceramic artist about balancing
 There is a wonderful parenting podcast, focusing on babyhood, called[The Longest Shortest Time][0]. Isn't that a fantastic term to describe the time when children are little? Time does go by quickly. I want to be present with my family. But I need to work. It makes me happy. It keeps me balanced. It keeps me sane. These days, I make lots of mugs. And honey pots. And plates and small bowls. Forms that I love. Pieces that I can finish before the baby wakes up from her nap. Or before I have to pick up big sister from preschool.
 
 I'm able to do studio related work almost daily. Sometimes that means listing some new pieces on Etsy. Other days it is photographing work. Other days it is throwing a dozen cups that I'll be able to get handles on in a few days. On the occasion that I have longer than 3 consecutive hours to work, I sometimes wonder what I'm going to do with all that time! I've scaled back on gallery representation for now and I'm focusing on direct sales from my studio and through Etsy. I really could make only mugs for years and years and never get bored. I'm happy with this moment in time. For the time I get in the studio each week and the snuggles with by babies.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f710862f-bff2-4c1e-8a7c-07186cc6965c.jpg)
 
 [0]: http://longestshortesttime.com/
