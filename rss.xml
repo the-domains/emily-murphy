@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Emily Murphy Pottery]]></title>
         <description><![CDATA[Emily Murphy Pottery]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/emily-murphy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jul 2016 21:16:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 31 Jul 2016 21:42:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/emily-murphy/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>This moment in time. </p>]]></description>
+            <link>https://thegrid.ai/emily-murphy/this-moment-in-time/index.html</link>
+            <guid isPermaLink="false">626efd70-5047-4191-b84d-020957e45782</guid>
+            <pubDate>Sun, 31 Jul 2016 21:42:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p></p>]]></description>
-            <link>undefined645e85e3-354b-4361-8750-57c7c1cc3d75/index.html</link>
+            <link>https://thegrid.ai/emily-murphy/645e85e3-354b-4361-8750-57c7c1cc3d75/index.html</link>
             <guid isPermaLink="false">645e85e3-354b-4361-8750-57c7c1cc3d75</guid>
             <pubDate>Sun, 31 Jul 2016 21:15:18 GMT</pubDate>
         </item>
